@@ -15,4 +15,8 @@
     <li>Phone:    +37498641815</li>
     </ul>
 
-<h3 align="center">MACHINE LEARNING</h3>
+<h4 align="left">Supervised by</h4>
+    <ul>
+    <li>Lilit Yolyan    <a href="https://github.com/LilitYolyan">Lilit Yolyan</a></li>
+    </ul>
+
