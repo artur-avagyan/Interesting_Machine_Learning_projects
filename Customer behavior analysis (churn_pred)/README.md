@@ -1,7 +1,9 @@
-# Interesting Machine Learning projects
- ML projects
+# Customer behavior analysis
+ Churn prediction model
+ 
 
-![istockphoto-973333646-170667a](https://user-images.githubusercontent.com/58246780/123525443-b655e400-d6e1-11eb-954c-2d7b1addea81.jpg)
+![1_X-oZNRw5Pnef-kR9CgLx1g](https://user-images.githubusercontent.com/58246780/123525754-1d749800-d6e4-11eb-8b38-a8a6fc914fbe.png)
+
 
 <h4 align="left">Artur Avagyan</h4>
     <ul>
@@ -13,4 +15,8 @@
     <li>Phone:    +37498641815</li>
     </ul>
 
-<h3 align="center">MACHINE LEARNING</h3>
+<h4 align="left">Supervised by</h4>
+    <ul>
+    <li>Lilit Yolyan    <a href="https://github.com/LilitYolyan">Lilit Yolyan</a></li>
+    </ul>
+
